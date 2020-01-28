@@ -1,4 +1,4 @@
-# Profile Description
+# Job Description
 
 Customer Happiness Engineer is a crucial role which connects the users to the company. Under this role you'll take care of resolving customer queries in considerable time and provide friendly assistance.  As you'll be the first point of contact for the customer it'll be very crucial that you maintain a healthy relationship with them.
 
