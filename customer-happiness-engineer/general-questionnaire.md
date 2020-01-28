@@ -1,34 +1,30 @@
----
-description: Please read the Profile Description before proceeding forward with the tasks.
----
-
 # General Questionnaire
 
 Please copy/paste the following questionnaire to a doc file and fill in all the answers.
 
-**Q.1** Do you have any previous experience of Customer Support?
+**Q.1** **Do you have any previous experience of Customer Support?**
 
-**A.1** 
+_A.1_ 
 
-**Q.2** Is your previous experience related to handling support for WordPress? If not then please describe about it in brief.
+**Q.2 Is your previous experience related to handling support for WordPress? If not then please describe about it in brief.**
 
-**A.2**
+_A.2_
 
-**Q.3.** Are you familiar with basic HTML, CSS, JS, PHP, jQuery ?
+**Q.3.** **Are you familiar with basic HTML, CSS, JS, PHP, jQuery ?**
 
-**A.3.**
+_A.3._
 
-**Q.4.** Have you ever coded "Hello World" using the languages mentioned above?
+**Q.4.** **Have you ever coded "Hello World" using the languages mentioned above?**
 
-**A.4.**
+_A.4._
 
-**Q.5.** Are you familiar with Page Builder plugins like Elementor, Beaver Builder, Gutenberg, etc.?
+**Q.5.** **Are you familiar with Page Builder plugins like Elementor, Beaver Builder, Gutenberg, etc.?**
 
-**A.5**
+_A.5_
 
-**Q.6.** Are you familiar GIT, SourceTree, BitBucket or any other kind of version management systems?
+**Q.6.** **Are you familiar GIT, SourceTree, BitBucket or any other kind of version management systems?**
 
-**A.6**
+_A.6_
 
-
+\_\_
 

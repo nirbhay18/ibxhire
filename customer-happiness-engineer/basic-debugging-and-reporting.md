@@ -1,7 +1,3 @@
----
-description: Please read the Profile Description before proceeding forward with the tasks.
----
-
 # Basic Debugging and Reporting
 
 Basic debugging skills are required for the support engineer to solve basic queries and reduce time for bug fixing cycle.
