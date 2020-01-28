@@ -4,8 +4,6 @@ description: Please read the Profile Description before proceeding forward with 
 
 # General Questionnaire
 
-> Please read the Profile Description before proceeding forward with the tasks.
-
 Please copy/paste the following questionnaire to a doc file and fill in all the answers.
 
 **Q.1** Do you have any previous experience of Customer Support?
@@ -28,7 +26,9 @@ Please copy/paste the following questionnaire to a doc file and fill in all the 
 
 **A.5**
 
+**Q.6.** Are you familiar GIT, SourceTree, BitBucket or any other kind of version management systems?
 
+**A.6**
 
 
 

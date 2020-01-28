@@ -4,8 +4,6 @@ description: Please read the Profile Description before proceeding forward with 
 
 # Customer Handling and Situation Analysis
 
-> Please read the Profile Description before proceeding forward with the tasks.
-
 We have mentioned below common situations which occur day to day handling the support. Please go through each of them and explain the actions you would take and dummy replies.
 
 Client Name: John Doe

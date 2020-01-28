@@ -4,8 +4,6 @@ description: Please read the Profile Description before proceeding forward with 
 
 # Basic Debugging and Reporting
 
-> Please read the Profile Description before proceeding forward with the tasks.
-
 Basic debugging skills are required for the support engineer to solve basic queries and reduce time for bug fixing cycle.
 
 Here, we have created three tasks related to CSS, JavaScript and PHP. Each task is of intermediate difficulty. Your task it to:
