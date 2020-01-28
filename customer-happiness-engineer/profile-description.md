@@ -12,7 +12,7 @@ Please follow the tasks in the following sequence.
 2. Customer Handling and Situation Analysis
 3. Basic Debugging and Reporting
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+### Description
+
+1. Point one
+2. Point two
