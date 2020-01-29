@@ -1,6 +1,6 @@
 # Job Description
 
-Customer Happiness Engineer is a crucial role which connects the users to the company. Under this role you'll take care of resolving customer queries in considerable time and provide friendly assistance.  As you'll be the first point of contact for the customer it'll be very crucial that you maintain a healthy relationship with them.
+If you are helluva good when it comes to fixing WordPress issues, if HTML, PHP, CSS, JS are your best friends then this might interest you.Be the Help Scout that understands, customer experience comes first, someone who HAS TO MAKE SURE that the tasks are checked off and on the customer’s side, they get friendly assistance.
 
 ### Responsibilities 
 
