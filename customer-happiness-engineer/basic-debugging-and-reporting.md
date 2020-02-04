@@ -36,7 +36,7 @@ The following page consists of an Instagram Feed which is throwing JS error in t
 
 The following page is throwing a PHP error and is not loading. Identify the reason behind the issue by using the Stack Trace of the issue appearing on the page and provide/suggest a fix for it.
 
-**Link:*<strong>*https://test.ideabox.dev/php-error/
+**Link:* <strong>*https://test.ideabox.dev/php-error/
 
 **Reason:**
 
