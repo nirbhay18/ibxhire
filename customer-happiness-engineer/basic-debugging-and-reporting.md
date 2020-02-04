@@ -12,7 +12,7 @@ Here, we have created three tasks related to CSS, JavaScript and PHP. Each task 
 
 The following page consists of a Timeline in which Title Color is not appearing when set for individual timeline item. Identify the reason behind the issue and provide a fix for it.
 
-**Link:* <strong>*https://test.ideabox.dev/css-error/</strong>
+**Link:** https://test.ideabox.dev/css-error/
 
 **Reason:**
 
@@ -24,7 +24,7 @@ The following page consists of a Timeline in which Title Color is not appearing 
 
 The following page consists of an Instagram Feed which is throwing JS error in the web console. Identify the reason behind the issue and provide a fix for it.
 
-**Link:* <strong>*https://test.ideabox.dev/js-error/</strong>
+**Link:** https://test.ideabox.dev/js-error/
 
 **Reason:**
 
@@ -36,13 +36,11 @@ The following page consists of an Instagram Feed which is throwing JS error in t
 
 The following page is throwing a PHP error and is not loading. Identify the reason behind the issue by using the Stack Trace of the issue appearing on the page and provide/suggest a fix for it.
 
-**Link:* <strong>*https://test.ideabox.dev/php-error/</strong>
+**Link:** https://test.ideabox.dev/php-error/
 
 **Reason:**
 
 **Fix:**
 
 **Thought Process:**
-
-\*\*\*\*
 
