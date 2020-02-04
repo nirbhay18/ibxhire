@@ -12,7 +12,7 @@ Here, we have created three tasks related to CSS, JavaScript and PHP. Each task 
 
 The following page consists of a Timeline in which Title Color is not appearing when set for individual timeline item. Identify the reason behind the issue and provide a fix for it.
 
-**Link:* <strong>;*https://test.ideabox.dev/css-error/
+**Link:* <strong>*https://test.ideabox.dev/css-error/
 
 **Reason:**
 
