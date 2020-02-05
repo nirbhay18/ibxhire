@@ -1,6 +1,6 @@
-# ibxhire
+# Careers at IdeaBox
 
-Welcome to IBX Hire. At **IdeaBox Creations** we always look forward to new talents. It is great to see you joining us. Please follow the instructions to below to complete the tasks assigned to you so that we can soon see you at IdeaBox.
+At **IdeaBox** we always look forward to new talents. It is great to see you joining us. Please follow the instructions to below to complete the tasks assigned to you so that we can soon see you at IdeaBox.
 
 ### How to Start?
 
