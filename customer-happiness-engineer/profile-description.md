@@ -29,6 +29,15 @@ help guide people to success & avoid repetitive questions.
 7. Excellent problem-solving skills and capacity to clearly explain a technical
 problem.
 
+# Responsibilities
+1. Point one 
+Manage the support tickets, either answering customer questions directly or
+bringing in an appropriate member of the core development team when you
+cannot.
+2. Point two
+Moderating the support inbox, ensuring customers and potential customers
+receive responses within 24 hours of submission.
+
 ### Tasks
 
 Please follow the tasks in the following sequence. 
@@ -36,4 +45,5 @@ Please follow the tasks in the following sequence.
 1. General Questionnaire
 2. Customer Handling and Situation Analysis
 3. Basic Debugging and Reporting
+
 
