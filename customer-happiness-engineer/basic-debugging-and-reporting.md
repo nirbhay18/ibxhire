@@ -14,11 +14,22 @@ The following page consists of a Timeline in which Title Color is not appearing 
 
 **Link:** https://test.ideabox.dev/css-error/
 
-**Reason:**
+**Reason:** Wrong Color Code 
 
-**Fix:**
+**Fix:**  Follow the steps:
+1. Open the following file - https://test.ideabox.dev/wp-content/uploads/elementor/css/post-151.css?ver=1580668369
+2. Search for - .pp-timeline-card-title .
+3. Change the Color code from #13A769 to #ff0000 .
+4. Now, Save the file.
 
-**Thought Process:**
+OR
+
+Just add the color-attribute under -
+.pp-timeline-card-title {
+color: #ff0000;
+}
+
+**Thought Process:**  Inspect the particular section and then will try to find the error occuring.
 
 ### **JavaScript**
 
@@ -26,11 +37,23 @@ The following page consists of an Instagram Feed which is throwing JS error in t
 
 **Link:** https://test.ideabox.dev/js-error/
 
-**Reason:**
+**Reason:**  Invalid Syntax & Reference error.
 
-**Fix:**
+**Fix:** Open The Following File - https://test.ideabox.dev/wp-content/plugins/powerpack-elements/assets/js/pp-instagram.js?ver=1.4.12.3
+  at InstaFeedPopupHandler (frontend.js?ver=1.4.12.3:267)
+  at _runHook (frontend.min.js?ver=2.8.5:2)
+  at Object.doAction (frontend.min.js?ver=2.8.5:2)
+  at e.exports.runReadyTrigger (frontend.min.js?ver=2.8.5:2)
+  at HTMLDivElement.<anonymous> (frontend.min.js?ver=2.8.5:2)
+  at Function.each (jquery.js?ver=1.12.4-wp:2)
+  at a.fn.init.each (jquery.js?ver=1.12.4-wp:2)
+  at _default.runElementsHandlers (frontend.min.js?ver=2.8.5:2)
+  at _default.onInit (frontend.min.js?ver=2.8.5:2)
+  at _default.Module.trigger (frontend-modules.min.js?ver=2.8.5:2)
 
-**Thought Process:**
+After defining the PPInstragramFeed we will save the file.
+
+**Thought Process:** Inspect the particular page and use *DEVTOOLS for identifing the issue and solve it.
 
 ### **PHP**
 
@@ -38,9 +61,15 @@ The following page is throwing a PHP error and is not loading. Identify the reas
 
 **Link:** https://test.ideabox.dev/php-error/
 
-**Reason:**
+**Reason:** Undefined or wrong defined variable
 
-**Fix:**
+**Fix:** Follow the path in *Back-Panel of the current file like in this case - /home/vinavb/public_html/test/wp-content/plugins/powerpack-elements/modules/advanced-tabs/widgets/advanced-tabs.php
+on line
+1160
+Then judge the problem by just define the variable or place an empty function around the current error.
+Save The File, check again.
 
-**Thought Process:**
+
+**Thought Process:** Before applying any changes we will take the backup of the current file and it will be best to create an wp_debug_log file and turn true, create the wp_debug_display file and turn it false so that we can make our changes witthout showing our error on our website.
+
 
